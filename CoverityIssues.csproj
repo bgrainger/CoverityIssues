@@ -7,8 +7,8 @@
     <ProjectGuid>{9090E744-EBE4-4F27-916F-4239A5B18F47}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CoverityBugs</RootNamespace>
-    <AssemblyName>CoverityBugs</AssemblyName>
+    <RootNamespace>CoverityIssues</RootNamespace>
+    <AssemblyName>CoverityIssues</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

@@ -1,11 +1,11 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("CoverityBugs")]
+[assembly: AssemblyTitle("CoverityIssues")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CoverityBugs")]
+[assembly: AssemblyProduct("CoverityIssues")]
 [assembly: AssemblyCopyright("Copyright 2013 Bradley Grainger")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
