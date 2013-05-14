@@ -6,7 +6,7 @@ Task Build {
 
 Task Coverity -depends Build {
   mkdir build\coverity -force
-  & "C:\Program Files\Coverity\Coverity Static Analysis\bin\cov-analyze-cs.exe" `--all `--max-mem 8192 `--dir build\coverity bin\Release\CoverityIssues.dll
+  & "C:\Program Files\Coverity\Coverity Static Analysis\bin\cov-analyze-cs.exe" `--all `--max-mem 8192 `--dir build\coverity bin\Release\CoverityIssues.exe
   if ($LastExitCode -ne 0) {
     throw "Error executing cov-analyze-cs.exe"
   }
