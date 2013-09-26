@@ -49,6 +49,7 @@
   <ItemGroup>
     <Compile Include="AssertThrows.cs" />
     <Compile Include="GenericInterface.cs" />
+    <Compile Include="RaceCondition.cs" />
     <Compile Include="MarshalPtrToStructure.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
